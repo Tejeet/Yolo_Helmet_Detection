@@ -12,4 +12,5 @@ Yolo Helmet Detection traffic signal CCTV Camera
 - pip install . ( Install Globally )
 - pip install tensorflow==1.15.0 ( Tensorflow install )
 - pip install cython
+- pip install numpy
 
